@@ -1,4 +1,10 @@
 # My Ideas for the Game In Detail
+## Contents
+
+[Introduction: The Balancing Act](#introduction-the-balancing-act)  
+[I. Pedagogy](#i-pedagogy)  
+[II. Combat](#ii-combat)  
+[III. Soundtrack](#iii-soundtrack)  
 
 ## Introduction: The Balancing Act
 
