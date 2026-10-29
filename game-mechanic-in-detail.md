@@ -51,29 +51,60 @@ A subtle but CRITICAL distinction is this is NOT the interval approach that is t
 
 ### Incentives
 
-
-### Feedback Systems
+- How do we incentivize a specific type of ear training?
+    - We use melodies instead of  
 
 - Expansion: Aesthetics of tonal emotion.
 
-- How do we help the player not get lost when they miss a note in the middle of a phrase?
-
 ### Pedagogical Scaffolding
+Given our inexperienced audience, we have to be very intentional about teaching ear-training in a structured way. That said, I am still attached to the idea of a souls-like game, which is very unforgiving in its learning curve. We have had this discussion, and I am willing to concede on the difficulty.
+
+Teaching the controls incrementally  
+We can structure the ear-training like a metroidvania, in which players start with almost no abilities and gain additional abilities throughout the game. This would correspond to a widening of the spectrum of pitches that the player can play and must listen for. The player would only have access to the tonic at first. Then another note with a strong pull, like the leading tone or a minor 3rd. The contrasting sensations of stability and tension are ideal for starting. We can continue this process until all the notes are in play.
+
+- How will we communicate the ear training system to the player at the start of the first boss?
+
+
+It is important to communicate octave equivalence to the player even in the first boss battle. We can do this by playing the tonic an octave above where it was first played, and doing the same for below.
+
+In a full game, we would need to communicate that the idea of relative pitch. The second boss, for example, could have a song written in a different key than the first. This tonic would be clearly established at the beginning of the song. We could communicate relative pitch by starting with melodies from the last battle, transcribed in the new key.
+
+
+ Use the visual aesthetic and in game narrative to communicate the emotional feeling of the training note. Ex: When introducing harmonic minor, use a dramatic battle with a gothic setting.
+
+Melody sequence example (put all of this together)
+- 
+-
+-
+-
+-
+-
+-
+
+
+
+
+
 -Guide Notes
-
-The use of at least 12 buttons for combat, instead of the single deflection button, means learning this game could be frustratingly difficult. Some ways to mitigate this:
-
-Structure the relative pitch like a metroidvania. The player would only have access to the tonic at first. Then the leading tone. These notes have a strong pull, so they are ideal for starting. Then the major third and perfect fifth. Once we cover the major scale, we could move to minor, then modes. Then, notes taken from modes and other scales. The harmonic complexity would also be closely controlled.
-    A combat sequence would teach the player early on that the buttons are relative pitch buttons. (ie. 1 is the tonic always, and this note would be made very clear at the start of an encounter). It might also teach octave equivalence.
-    Use the visual aesthetic and in game narrative to communicate the emotional feeling of the training note. Ex: When introducing harmonic minor, use a dramatic battle with a gothic setting.
-
-
 
 ## II. Combat
 
 ### Combat Interface
 
+
+
 ### The Call and Response Phases of the Game Loop
+
+### Feedback Systems
+
+Immediate, clear visual and auditory feedback is a great way that we can teach ear training without talking about the music theory. Here are some ideas I have.
+
+- The player should hear every note they play, regardless of whether it was right or wrong. If it is wrong, it will introduce dissonance, which will help them understand that it is wrong.
+
+- How do we communicate to the player that they missed a note?
+- How do we help the player not get lost when they miss a note in the middle of a phrase?
+
+- 
 
 ### Damage System
 
