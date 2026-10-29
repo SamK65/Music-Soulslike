@@ -32,9 +32,33 @@ Clearly, ear-training is the focus of the game. However, in addition to ear-trai
 
 In particular, I want to emphasize that the game will NOT be teaching music theory. Although music theory helps put names to the emotional language of music, it is not essential to ear-training, and only the essentials will be taught. The exception to this would be music theory concepts used as Easter eggs for musicians, but non-musicians can miss them without consequence.
 
-### My Approach to Ear Training.
-I have over 12 years of experience in piano. I use ear training regularly as a jazz pianist. I can play most songs by ear in a few listens
+### My Approach to Relative-Pitch Ear-Training.
+I have over 12 years of experience in piano. I use relative-pitch ear-training regularly as a jazz pianist. I can play most songs by ear in a few listens. This is the approach I use and intend to build the game around. I will clarify what this technique is, what it is not, and why I believe it is the best technique.
 
+**Definition:** The **tonic** or key is the tonal center of the music. It is the note that feels most stable.  
+**Definition:** Once the tonic is established, it is felt even if it is not currently being played. I will call this the **key context** or context.
+
+First, this is a _relative_ pitch technique, which means I listen for notes relative to other notes of a song
+This is in contrast to _absolute_ or perfect pitch, which involves hearing exact notes and frequencies, and is much harder to impossible to learn.
+
+Here's how it works. Music makes us _feel_. That raw emotional connection is one of the main reasons music is so special. That connection is proof that we all feel the emotional push and pull of the harmony about the tonic, (even if we don't know what a tonic is). This style of ear training is all about sharpening that emotional compass. 
+
+Each note heard in the context of the tonic creates a distinctly recognizable _sensation_. By sensation, I mean it is more elementary than an emotion, more like a sense of stability or tension. For example, the 2nd scale degree feels somewhat content, but also a little bit stirred. We can feel its tendency to resolve to the tonic. We can especially feel the pull of the 7, or leading tone to resolve up to 1. These sensations are octave equivalent, meaning changing the octave doesn't change the sensation, though it might change the overall emotion. They are also independent of the 12 keys. Changing the key, changes the brightness\timbre of the key context, but not these sensations.
+
+Learning this starts with learning these 12 sensations. Then, we can start grouping them together into melodies and chords. The combination of multiple sensations in a chord creates emotions. For example, a major 7 chord feels stable due to the 1 & 5, warm due to the 3, but with a melancholic pull due to the 7. This nuanced emotion can be learned and recognized as Imaj7. I don't expect to teach grouping, but it shows how this system works.
+
+
+
+subtle but critical distinction.
+Second, this technique is NOT the standard interval approach that is taught in a basic music theory class (like Fundies). The interval approach is when students memorize the sound of each interval between two notes out of the 12. Typically, the range is from unison to the octave, and the intervals are heard ascending, descending, and played together.
+
+
+
+**the interval is felt not played**
+For these reasons, I will not be using the term "interval" in reference to ear-training.
+
+- Octave equivalence
+- Chunking
 
 ### Incentives
 
