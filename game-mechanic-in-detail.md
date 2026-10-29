@@ -25,24 +25,47 @@ Here's a sketch of my overall idea for the game.
 
 ## I. Pedagogy
 
+In this section, I answer the question: "How do we teach the player ear-training within the structure of a boss battle?"
+
+### Teaching Scope
+Clearly, ear-training is the focus of the game. However, in addition to ear-training, some basic rhythmic skill will be required because playing melodies involves both pitch and rhythm.
+
+In particular, I want to emphasize that the game will NOT be teaching music theory. Although music theory helps put names to the emotional language of music, it is not essential to ear-training, and only the essentials will be taught. The exception to this would be music theory concepts used as Easter eggs for musicians, but non-musicians can miss them without consequence.
+
 ### My Approach to Ear Training.
+I have over 12 years of experience in piano. I use ear training regularly as a jazz pianist. I can play most songs by ear in a few listens
+
 
 ### Incentives
 
 
 ### Feedback Systems
 
+- Expansion: Aesthetics of tonal emotion.
+
+- How do we help the player not get lost when they miss a note in the middle of a phrase?
 
 ### Pedagogical Scaffolding
 -Guide Notes
+
+The use of at least 12 buttons for combat, instead of the single deflection button, means learning this game could be frustratingly difficult. Some ways to mitigate this:
+
+Structure the relative pitch like a metroidvania. The player would only have access to the tonic at first. Then the leading tone. These notes have a strong pull, so they are ideal for starting. Then the major third and perfect fifth. Once we cover the major scale, we could move to minor, then modes. Then, notes taken from modes and other scales. The harmonic complexity would also be closely controlled.
+    A combat sequence would teach the player early on that the buttons are relative pitch buttons. (ie. 1 is the tonic always, and this note would be made very clear at the start of an encounter). It might also teach octave equivalence.
+    Use the visual aesthetic and in game narrative to communicate the emotional feeling of the training note. Ex: When introducing harmonic minor, use a dramatic battle with a gothic setting.
+
+
 
 ## II. Combat
 
 ### Combat Interface
 
+### The Call and Response Phases of the Game Loop
+
 ### Damage System
 
-### Anti-Spamming Mechanic
+### Punishing Cheap Tactics
+- Anti-Spamming Mechanic
 
 
 ## III. Soundtrack
@@ -58,12 +81,3 @@ Here's a sketch of my overall idea for the game.
 Combat
 
 The physical interface would either be a keyboard or a midi controller. Either way, we need at least 12 buttons for the chromatic notes within the octave. In combat encounters, the player would hear a melody in time with the soundtrack before their opponent attacks. Playing this melody by ear by pressing the corresponding buttons in the controller would 1.) counter the opponents attack and deal damage; and 2.) sound as notes in an instrument determined by the player's weapon. The rhythm of the melody will also reflect in the attack sequence. Mismatched or missed notes will have instant feedback in both incongruent sound and damage taken. The player who plays the song by ear perfectly will get the satisfaction of a smooth combat encounter and fully-realized soundtrack.
-
-Pedagogy
-
-The use of at least 12 buttons for combat, instead of the single deflection button, means learning this game could be frustratingly difficult. Some ways to mitigate this:
-
-Structure the relative pitch like a metroidvania. The player would only have access to the tonic at first. Then the leading tone. These notes have a strong pull, so they are ideal for starting. Then the major third and perfect fifth. Once we cover the major scale, we could move to minor, then modes. Then, notes taken from modes and other scales. The harmonic complexity would also be closely controlled.
-    A combat sequence would teach the player early on that the buttons are relative pitch buttons. (ie. 1 is the tonic always, and this note would be made very clear at the start of an encounter). It might also teach octave equivalence.
-    Use the visual aesthetic and in game narrative to communicate the emotional feeling of the training note. Ex: When introducing harmonic minor, use a dramatic battle with a gothic setting.
-
