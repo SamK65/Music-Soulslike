@@ -43,22 +43,11 @@ This is in contrast to _absolute_ or perfect pitch, which involves hearing exact
 
 Here's how it works. Music makes us _feel_. That raw emotional connection is one of the main reasons music is so special. That connection is proof that we all feel the emotional push and pull of the harmony about the tonic, (even if we don't know what a tonic is). This style of ear training is all about sharpening that emotional compass. 
 
-Each note heard in the context of the tonic creates a distinctly recognizable _sensation_. By sensation, I mean it is more elementary than an emotion, more like a sense of stability or tension. For example, the 2nd scale degree feels somewhat content, but also a little bit stirred. We can feel its tendency to resolve to the tonic. We can especially feel the pull of the 7, or leading tone to resolve up to 1. These sensations are octave equivalent, meaning changing the octave doesn't change the sensation, though it might change the overall emotion. They are also independent of the 12 keys. Changing the key, changes the brightness\timbre of the key context, but not these sensations.
+Each note heard in the context of the tonic creates a distinctly recognizable _sensation_. By sensation, I mean it is more elementary than an emotion, more like a sense of stability or tension. For example, the 2nd scale degree feels somewhat content, but also a little bit stirred. We can feel its tendency to resolve to the tonic. We can especially feel the pull of the 7, or leading tone to resolve up to 1. These sensations are octave equivalent, meaning changing the octave doesn't change the sensation, though it might change the overall emotion. They are also independent of the 12 keys. Changing the key, changes the brightness/timbre of the key context, but not these sensations.
 
-Learning this starts with learning these 12 sensations. Then, we can start grouping them together into melodies and chords. The combination of multiple sensations in a chord creates emotions. For example, a major 7 chord feels stable due to the 1 & 5, warm due to the 3, but with a melancholic pull due to the 7. This nuanced emotion can be learned and recognized as Imaj7. I don't expect to teach grouping, but it shows how this system works.
+Learning this starts with learning these 12 sensations. Then, we can start grouping them together into melodies and chords. The combination of multiple sensations in a chord creates emotions. For example, a major 7 chord feels stable due to the 1 & 5, warm due to the 3, but with a melancholic pull due to the 7. This nuanced emotion can be learned and recognized as Imaj7. (we won't teach grouping).
 
-
-
-subtle but critical distinction.
-Second, this technique is NOT the standard interval approach that is taught in a basic music theory class (like Fundies). The interval approach is when students memorize the sound of each interval between two notes out of the 12. Typically, the range is from unison to the octave, and the intervals are heard ascending, descending, and played together.
-
-
-
-**the interval is felt not played**
-For these reasons, I will not be using the term "interval" in reference to ear-training.
-
-- Octave equivalence
-- Chunking
+A subtle but CRITICAL distinction is this is NOT the interval approach that is taught in a basic music theory class. The interval approach is when students memorize the sound of each interval between two notes out of the 12. The difference is in my method, notes are heard relative to the tonic. Yes, these are technically intervals, but the tonic is implied. For this reason, I use the word "scale_degrees" instead of "intervals". These sensations are _constant_. Conversely, in the interval method, intervals are essentially memorized _out of context_. Every new interval starts from the end of the last interval. This creates cognitive dissonance when the actual key context suggests a different emotion than the interval implies out of context. For example, a minor 3rd, from the tonic sounds dark/sad, but it occurs from the 3rd to the 5th of a major triad built on the 1, which sounds much happier. Using the interval method, we have to override that feeling of happiness to imagine the tonic to be the 3. In my method, we hear 1, 3, 5, or even just the chord as a whole.
 
 ### Incentives
 
