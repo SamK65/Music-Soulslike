@@ -12,7 +12,7 @@ When combined these components have the potential to create a deeply immersive e
 
 Note that these components present an optimization problem. For example, faster melodies can make the soundtrack more engaging, but they would require more skill from the player. Conversely, allowing the player to play notes asynchronously would ease the learning curve, but it would create unwanted rhythmic dissonance in the soundtrack. 
 
-Below I will detail a game system that deals with these intricacies. I will start with [I. pedagogy](#i-pedagogy), then [II. combat](#ii-combat), and finally [III. soundtrack](iii-soundtrack). The target audience for the game will be musicians and non-musicians which I assume have little ear-training skill. The game length will be 3-5 minutes. I will denote ideas that are suited to a longer version of the game with the marker "Expansion:".
+Below I will detail a game system that deals with these intricacies. I will start with [I. pedagogy](#i-pedagogy), then [II. combat](#ii-combat), and finally [III. soundtrack](#iii-soundtrack). The target audience for the game will be musicians and non-musicians which I assume have little ear-training skill. The game length will be 3-5 minutes. I will denote ideas that are suited to a longer version of the game with the marker "Expansion:".
 
 Here's a sketch of my overall idea for the game.
 <img width="1280" height="800" alt="Game_Sketch" src="https://github.com/user-attachments/assets/075db0b2-478c-4e9f-9c09-932dc84be99a" />
