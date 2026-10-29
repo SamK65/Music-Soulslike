@@ -33,7 +33,7 @@ Clearly, ear-training is the focus of the game. However, in addition to ear-trai
 In particular, I want to emphasize that the game will NOT be teaching music theory. Although music theory helps put names to the emotional language of music, it is not essential to ear-training, and only the essentials will be taught. The exception to this would be music theory concepts used as Easter eggs for musicians, but non-musicians can miss them without consequence.
 
 ### My Approach to Relative-Pitch Ear-Training.
-I have over 12 years of experience in piano. I use relative-pitch ear-training regularly as a jazz pianist. I can play most songs by ear in a few listens. This is the approach I use and intend to build the game around. I will clarify what this technique is, what it is not, and why I believe it is the best technique.
+This is the relative-pitch approach I have learned over many years of ear training. I intend to build the game around this. I will clarify what this technique is, what it is not, and why I believe it is the best technique.
 
 **Definition:** The **tonic** or key is the tonal center of the music. It is the note that feels most stable.  
 **Definition:** Once the tonic is established, it is felt even if it is not currently being played. I will call this the **key context** or context.
