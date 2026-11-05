@@ -1,4 +1,4 @@
-#N canvas 7 121 438 567 12;
+#N canvas 0 30 487 567 12;
 #X obj 42 35 inlet;
 #X obj 48 184 mtof;
 #X obj 47 390 osc~;
@@ -50,7 +50,7 @@
 #X obj 320 286 metro 100;
 #X obj 319 260 loadbang;
 #X text 458 391 carrier and mod may benefit from coprime control, f 22;
-#N canvas 0 106 445 321 damped-adsr 1;
+#N canvas 0 106 445 321 damped-adsr 0;
 #X obj 39 90 adsr~, f 19;
 #X obj 86 64 r A;
 #X obj 113 65 r D;
@@ -95,6 +95,8 @@
 #X connect 20 0 12 0;
 #X restore 274 190 pd damped-adsr;
 #X text 432 48 Note on ratio: Harmonic spectra occur when the ratio of carrier to modulator frequency is rational \; The fundamental frequency is GCD(C \, M) The greatest frequency that can be multiplied to get C \, M \, and any side band (C +|- nM) \; If C/M = N1/N2 where N1 \, and N2 are coprime integers \, then the harmonic numbers of the bands are given by k = N1 +|- nN2 - That makes N1 the start harmonic \, and N2 the distance between harmonics. \; Number of side bands heard ~ I + 1 \, so you may not always hear f0. - Calculating C and M from N1 \, N2 and f0 => C = f0*N1 \, M = f0*N2 \, making their GCD f0 and their ratio N1/N2, f 28;
+#X floatatom 239 409 10 0 0 0 - - - 0;
+#X floatatom 333 409 11 0 0 0 - - - 0;
 #X connect 0 0 17 0;
 #X connect 1 0 7 0;
 #X connect 1 0 15 0;
@@ -103,6 +105,7 @@
 #X connect 5 0 29 0;
 #X connect 6 0 8 0;
 #X connect 7 0 12 0;
+#X connect 7 0 31 0;
 #X connect 8 0 9 0;
 #X connect 8 1 16 0;
 #X connect 8 2 20 1;
@@ -115,6 +118,7 @@
 #X connect 13 0 2 0;
 #X connect 15 0 10 0;
 #X connect 15 0 21 0;
+#X connect 15 0 32 0;
 #X connect 16 0 15 0;
 #X connect 16 1 15 1;
 #X connect 17 1 1 0;
