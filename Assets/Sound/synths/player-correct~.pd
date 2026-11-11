@@ -1,0 +1,7 @@
+#N canvas 795 209 450 374 12;
+#X obj 39 69 lvl~;
+#X obj 42 290 catch~ correct;
+#X obj 42 314 outlet~;
+#X obj 39 45 harpsichord~ \$1 1;
+#X connect 1 0 2 0;
+#X connect 3 0 0 0;
